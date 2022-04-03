@@ -1,0 +1,22 @@
+.top-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.top-container img {
+    width: 30%;
+}
+
+.docs-container {
+    width: 30%;
+}
+
+.docs-container a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+}
