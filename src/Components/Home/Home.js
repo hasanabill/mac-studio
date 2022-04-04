@@ -1,8 +1,13 @@
 import React from 'react';
 import studio from '../../assets/studio.png'
+import useReviews from '../../hooks/useReviews';
+import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
+
+    const [reviews, setReviews] = useReviews();
+
     return (
         <div>
             <div className='top-container'>
@@ -16,6 +21,12 @@ const Home = () => {
             </div>
             <div className='reviews-container'>
                 <h2>Reviews</h2>
+                {
+                    reviews.slice(0, 3).map(review => <Review
+                        key={review.id}
+                        review={review}
+                    ></Review>)
+                }
             </div>
         </div>
     );
