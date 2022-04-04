@@ -1,7 +1,8 @@
 .review-container {
-    border: 2px solid black;
+    border: 1px solid rgb(71, 71, 71);
     border-radius: 10px;
     margin: 30px 200px;
     padding: 0 30px;
     text-align: left;
+    box-shadow: 0px 0px 20px rgba(71, 71, 71, 0.622);
 }

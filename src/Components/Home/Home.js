@@ -1,7 +1,7 @@
 import React from 'react';
 import studio from '../../assets/studio.png'
 import useReviews from '../../hooks/useReviews';
-import Review from '../Review/Review';
+import ReviewCard from '../ReviewCard/ReviewCard';
 import './Home.css'
 
 const Home = () => {
@@ -20,12 +20,11 @@ const Home = () => {
                 </div>
             </div>
             <div className='reviews-container'>
-                <h2>Reviews</h2>
                 {
-                    reviews.slice(0, 3).map(review => <Review
+                    reviews.slice(0, 3).map(review => <ReviewCard
                         key={review.id}
                         review={review}
-                    ></Review>)
+                    ></ReviewCard>)
                 }
             </div>
         </div>

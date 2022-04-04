@@ -7,7 +7,7 @@ const Review = ({ review }) => {
         <div className='review-container'>
             <h2>{name}</h2>
             <p>{comment}</p>
-            <h5>Rating: {rating} stars</h5>
+            <h5>Rating: {rating} stars out of 5</h5>
         </div>
     );
 };
