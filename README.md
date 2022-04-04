@@ -1,3 +1,11 @@
+# Mac Studio
+Checkout the live website [here](https://mac-studio.netlify.app/)
+
+* This application was created using react library.
+* React Router was used for routing this single page application.
+* In dashboard react recharts is used for the linechart and area chart.
+* I used vanila CSS for all the styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -2,37 +2,37 @@
     {
         "id": "624ac92906ac3f531fc6a7eb",
         "name": "Bruce Wayne",
-        "comment": "Eu officia est ea exercitation do ea minim sit fugiat consequat aute tempor excepteur quis. Anim ipsum mollit qui qui officia dolor id sunt minim id. Ut Lorem do elit ullamco quis aliqua duis labore ea.\r\n",
+        "comment": "It's the best thing apple ever made. The perforance is on another level. The power consumption is unrivaled in the industry. It consumes like 150w power and performs like those 600w-700w power hungry desktop computers. This is pure madness.",
         "rating": 4.2
     },
     {
         "id": "624ac9297c1d9e77034fe03e",
-        "name": "Vonda Hutchinson",
-        "comment": "Velit occaecat occaecat nisi qui laboris. Labore ad fugiat excepteur cupidatat nisi consequat ea. Adipisicing consequat duis est veniam incididunt pariatur Lorem. Sunt labore Lorem cillum commodo excepteur do exercitation.\r\n",
+        "name": "Tony Stark",
+        "comment": "The Mac Studio is a fantastic addition to the Mac family. Its laser-like focus on creative professionals means it won't be for everyone, but if you're after a powerful and compact creative workstation, you'll love this.",
         "rating": 4.6
     },
     {
         "id": "624ac929065144d19bc71a32",
-        "name": "Coleman Hopkins",
-        "comment": "Culpa adipisicing elit in officia esse ullamco cillum ut ipsum enim. Exercitation occaecat tempor nulla irure sit consequat eu tempor exercitation qui. Officia labore dolore dolore nostrud sint tempor mollit ipsum magna. Culpa labore proident officia eiusmod pariatur.\r\n",
+        "name": "Barry Allen",
+        "comment": "If you're upgrading from an older Intel Mac (or even an M1), the Mac Studio offers exciting processing prowess. It may even be a suitable replacement for an Intel Mac Pro in certain situations.",
         "rating": 4.3
     },
     {
         "id": "624ac929f710a1a82cc15749",
-        "name": "Lucinda Koch",
-        "comment": "Id laborum eiusmod esse commodo officia ipsum tempor eu ex cillum consectetur. Ut magna nostrud ullamco minim dolor quis. Non occaecat Lorem cillum veniam.\r\n",
+        "name": "Clark Kent",
+        "comment": "The Mac Studio is a good choice if you're committed to the desktop lifestyle and have a display handy (or are buying the new Studio Display). If you're someone who also uses a laptop, it might be worth considering that the Mac Studio with the M1 Max processor is almost identical in performance to the MacBook Pro with the M1 Max processor. If the M1 processor is powerful enough for your needs, there's no need for a Mac Studio—a 24-inch iMac will suit, as will a Mac mini",
         "rating": 4.8
     },
     {
         "id": "624ac92942fa6937f8f7d186",
-        "name": "Carver Bender",
-        "comment": "Officia adipisicing cillum occaecat pariatur deserunt id cillum velit aliqua in ex. Duis adipisicing duis ea aliquip officia est pariatur culpa laboris officia ullamco aliqua. Enim sint duis consequat consequat cupidatat.\r\n",
-        "rating": 4
+        "name": "Steve Rogers",
+        "comment": "Apple's Mac Studio can deliver more power than almost any other computer on the market, and it packs it all into a quiet, well-designed chassis that looks good on a desk. It's an excellent desktop for creatives, families and students, though getting one with an ultra-fast M1 Ultra chip will cost you quite a bit.",
+        "rating": 4.7
     },
     {
         "id": "624ac9290df7eb23f5e15803",
-        "name": "Hutchinson Daniel",
-        "comment": "Nulla quis consequat non ipsum ex qui minim magna nulla nostrud veniam Lorem cupidatat. Quis cillum ut laboris consequat. Eu labore nostrud pariatur est irure. Adipisicing nulla voluptate incididunt minim ut qui ut irure laborum. Eu cillum excepteur mollit dolor eu reprehenderit. Lorem cillum dolor est et consequat eu occaecat ullamco do.\r\n",
+        "name": "Bruce Banner",
+        "comment": "The Mac Studio can deliver more power than most PCs, and it packs it all into a quiet, well-designed chassis that looks good on a desk. if I was in the market for a Mac desktop myself, this is the one which is perfect for me.",
         "rating": 4.5
     }
 ]
