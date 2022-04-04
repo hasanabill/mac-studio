@@ -3,10 +3,11 @@ import studio from '../../assets/studio.png'
 import useReviews from '../../hooks/useReviews';
 import ReviewCard from '../ReviewCard/ReviewCard';
 import './Home.css'
+import { Link } from 'react-router-dom';
 
 const Home = () => {
 
-    const [reviews, setReviews] = useReviews();
+    const [reviews] = useReviews();
 
     return (
         <div>
@@ -19,13 +20,17 @@ const Home = () => {
                     <a target="_blank " href="https://www.apple.com/mac-studio/">Buy Now</a>
                 </div>
             </div>
-            <div className='reviews-container'>
-                {
-                    reviews.slice(0, 3).map(review => <ReviewCard
-                        key={review.id}
-                        review={review}
-                    ></ReviewCard>)
-                }
+            <div className='bottom-container'>
+                <h1>Reviews</h1>
+                <div className='reviews-container'>
+                    {
+                        reviews.slice(0, 3).map(review => <ReviewCard
+                            key={review.id}
+                            review={review}
+                        ></ReviewCard>)
+                    }
+                </div>
+                <Link to='/reviews'>See All Reviews</Link>
             </div>
         </div>
     );
