@@ -1,0 +1,8 @@
+.qna-container div {
+    border: 1px solid black;
+    margin: 30px 300px;
+}
+
+.qna-container {
+    padding: auto auto;
+}
