@@ -1,3 +1,7 @@
+.home {
+    background-color: #f6f6f6;
+}
+
 .top-container {
     display: flex;
     justify-content: space-around;
@@ -30,7 +34,7 @@
 .reviews-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    grid-gap: 40px;
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -42,4 +46,5 @@
     background-color: black;
     color: white;
     border-radius: 10px;
+    font-weight: 500;
 }

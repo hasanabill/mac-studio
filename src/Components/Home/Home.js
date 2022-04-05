@@ -10,7 +10,7 @@ const Home = () => {
     const [reviews] = useReviews();
 
     return (
-        <div>
+        <div className='home'>
             <div className='top-container'>
                 <img src={studio} alt="" />
                 <div className='docs-container'>
